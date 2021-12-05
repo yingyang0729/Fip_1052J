@@ -12,7 +12,7 @@ TODO: The repo is for final exam 1052.
 ## Contributing
 The contributor is Ying Yang. The folders and the files can be annotated as follow.
 1. Admin-it contains a blank text file;
-2. Assets-it contains PSD and AI files;
+2. Assets-it contains three PSD and two AI files. The Page 2 AI file is too large so the developer deletes;
 3. CSS-it contains a main.css file;
 4. includes-it contains 3 JPEG and 1 PDF files that shows the design of web pages;
 5. js-it contains a blank text file;
